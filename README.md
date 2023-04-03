@@ -12,9 +12,9 @@ Decision trees , Artificial Neural Network and others. You will fit model in ord
 
 Approach & WorkFlow-
 
-•	Data Collection
-•	Data Preprocessing (UnBalanced Dataset)
-•	Data Analysis 
-•	Train & Test split
-•	Logistic Regression
-•	Evaluation
+1. 	Data Collection
+2.	Data Preprocessing (UnBalanced Dataset)
+3.	Data Analysis 
+4.	Train & Test split
+5.	Logistic Regression
+6.  Evaluation
